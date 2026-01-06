@@ -108,6 +108,8 @@ Identifies vendors contributing the highest inventory value, aiding strategic so
 * **Procurement Planning:** Assists procurement teams in making informed purchasing decisions
 * **Operational Efficiency:** Improves visibility across inventory operations for faster, data-driven decisions
 
+---
+
 ### 📊 Dashboard Preview
 
 *([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Dashboard/blob/main/Inventory%20Management%20Dashboard.png))*
