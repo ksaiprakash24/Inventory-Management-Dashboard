@@ -1,8 +1,3 @@
-# Inventory-Management-Dashboard
-Perfect — based on your **Inventory Management Power BI Dashboard** and following **exactly the same README structure and quality** you shared, here is a **GitHub-ready README** tailored to your project, ATS-friendly and interview-ready.
-
----
-
 ## 📦 Inventory Intelligence: Inventory Management Power BI Dashboard
 
 ### 1. Project Title / Headline
@@ -112,3 +107,7 @@ Identifies vendors contributing the highest inventory value, aiding strategic so
 * **Vendor Management:** Supports vendor performance evaluation and dependency reduction
 * **Procurement Planning:** Assists procurement teams in making informed purchasing decisions
 * **Operational Efficiency:** Improves visibility across inventory operations for faster, data-driven decisions
+
+### 📊 Dashboard Preview
+
+*([Dashboard Preview](https://github.com/ksaiprakash24/Employee-Insights-Dashboard/blob/main/Employee%20Insights%20Dashboard.png))*
