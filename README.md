@@ -110,4 +110,4 @@ Identifies vendors contributing the highest inventory value, aiding strategic so
 
 ### 📊 Dashboard Preview
 
-*([Dashboard Preview](https://github.com/ksaiprakash24/Employee-Insights-Dashboard/blob/main/Employee%20Insights%20Dashboard.png))*
+*([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Dashboard/blob/main/Inventory%20Management%20Dashboard.png))*
